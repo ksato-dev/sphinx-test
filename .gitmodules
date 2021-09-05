@@ -1,4 +1,0 @@
-[submodule "_build/html"]
-	path = _build/html
-	url = git@github.com:ksato-dev/sphinx-test.git
-	branch = gh-pages
