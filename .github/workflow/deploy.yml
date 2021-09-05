@@ -19,6 +19,7 @@ jobs:
           touch build/html/.nojekyll
       - name: Deploy to GitHub Pages
         uses: ksato-dev/sphinx-test@main
+        
         env:
           BUILD_DIR: build/html
           # GH_PAT: ${{ secrets.GH_PAT }}
