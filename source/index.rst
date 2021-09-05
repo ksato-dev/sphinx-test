@@ -14,6 +14,7 @@ Welcome to sample-project's documentation!
    hello
    hierarchy
    code
+   other
 
 Indices and tables
 ==================
